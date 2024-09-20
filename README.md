@@ -53,9 +53,4 @@ Este repositório contém exercícios práticos para treinar o uso de **Collecti
 │       └── ExemploHashMap.java
 └── README.md
 
-src: Diretório contendo os exemplos práticos e exercícios separados por tipo de Collection.
-list: Contém exercícios sobre listas.
-set: Contém exercícios sobre conjuntos.
-map: Contém exercícios sobre mapeamentos.
-Contribuições
-Sinta-se à vontade para contribuir com mais exemplos, melhorias no código ou novos exercícios relacionados ao uso de Collections em Java!
+
