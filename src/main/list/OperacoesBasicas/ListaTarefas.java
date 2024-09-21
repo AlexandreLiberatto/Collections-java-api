@@ -40,7 +40,4 @@ public class ListaTarefas {
         System.out.println(tarefaList);
     }
 
-    public static void main(String[] args) {
-
-    }
 }
