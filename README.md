@@ -29,7 +29,7 @@ Este repositório contém exercícios práticos para treinar o uso de **Collecti
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/AlexandreLiberatto/Collections-java-api.git
     ```
 
 2. Importe os arquivos em sua IDE favorita (Eclipse, IntelliJ, etc.) ou compile e execute no terminal:
