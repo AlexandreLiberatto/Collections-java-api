@@ -27,30 +27,11 @@ Este repositório contém exercícios práticos para treinar o uso de **Collecti
    
 ## Como Utilizar
 
-1. Clone o repositório:
+ Clone o repositório:
     ```bash
     git clone https://github.com/AlexandreLiberatto/Collections-java-api.git
     ```
 
-2. Importe os arquivos em sua IDE favorita (Eclipse, IntelliJ, etc.) ou compile e execute no terminal:
 
-    ```bash
-    javac NomeDoArquivo.java
-    java NomeDoArquivo
-    ```
-
-3. Cada arquivo Java contém uma explicação sobre o exercício e o objetivo do código.
-
-## Estrutura do Projeto
-
-```bash
-├── src
-│   ├── list
-│   │   └── ExemploArrayList.java
-│   └── set
-│       └── ExemploHashSet.java
-│   └── map
-│       └── ExemploHashMap.java
-└── README.md
 
 
