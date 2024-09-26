@@ -42,4 +42,19 @@ public class AgendaContatos {
         }
         return contatoAtualizado;
     }
+
+    // fazendo testes
+    public static void main(String[] args) {
+        AgendaContatos agendaContatos = new AgendaContatos();
+
+        agendaContatos.exibirContatos();
+
+        agendaContatos.adicionaContato("Alexandre", 123456);
+        agendaContatos.adicionaContato("Alexandre Liberato", 0);
+        agendaContatos.adicionaContato("Alexandre DIO", 11111);
+        agendaContatos.adicionaContato("Alexandre", 165842);
+        agendaContatos.adicionaContato("Alexandre Silva", 885544);
+
+        agendaContatos.exibirContatos();
+    }
 }
